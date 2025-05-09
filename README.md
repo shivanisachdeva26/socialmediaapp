@@ -32,5 +32,6 @@ A full-stack social media web application where users can connect, chat, and sha
 - Cloudinary (for image upload)
 - dotenv for environment configuration
 
-## Video Link
+## Links
+- https://socialmediaapp-jsx0.onrender.com
 - https://drive.google.com/file/d/1wedHWmPmeorAd9_9EsCef3SB5FBACILJ/view?usp=drivesdk
